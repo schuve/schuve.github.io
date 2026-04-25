@@ -6,7 +6,8 @@
 <h3>AD</h3>
 <h3>DHCP</h3>
 <h3>AD create</h3>
-
-
-
 <h3>Lx</h3>
+<h3>RMT-HELP</h3>
+<p>SSH sudo apt install ssh</p>
+<p>VNC W(tightvnc) -> L(x11vnc)</p>
+<p>RDP L(Remmina) -> W(ON)</p>
