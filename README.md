@@ -4,6 +4,9 @@
 <p>LNX: 4GB RAM, 30GB STR, 1J 4V, NAT8, OS later</p>
 <h3>DNS</h3>
 <h3>AD</h3>
+New Forest (local.lab)
+DSRM
+DNS delegace -> když sub dom (sub.loacl.lab)
 <h3>DHCP</h3>
 <h3>AD create</h3>
 <h3>Lx</h3>
