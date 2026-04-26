@@ -14,4 +14,4 @@
 <p>VNC W(tightvnc) -> L(x11vnc)</p>
 <p>RDP L(Remmina) -> W(ON)</p>
 <h4>conf</h4>
-<p>PCPartPicker.com, PassMark, Geekbench </p>
+<p>PCPartPicker.com, PassMark, Geekbench, geekboy cz, GPUreport cz, forum zive cz sestavy </p>
