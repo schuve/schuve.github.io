@@ -9,6 +9,13 @@
 <p>scope...DNS, GW</p>
 <h4>AD create</h4>
 <p>pray</p>
+<h4>SAMBA</h4>
+<p>
+/etc/samba/smb.conf <--- konfig on end
+samba user create
+smbd, nmbd
+\\ip\\share
+</p>
 <h4>RMT-HELP</h4>
 <p>SSH sudo apt install ssh</p>
 <p>VNC W(tightvnc) -> L(x11vnc)</p>
