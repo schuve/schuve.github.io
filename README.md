@@ -11,10 +11,10 @@
 <p>pray</p>
 <h4>SAMBA</h4>
 <p>
-/etc/samba/smb.conf <--- konfig on end
-samba user create
-smbd, nmbd
-\\ip\\share
+/etc/samba/smb.conf <--- konfig on end, 
+samba user create, 
+smbd, nmbd,  
+\\ip\\share 
 </p>
 <h4>RMT-HELP</h4>
 <p>SSH sudo apt install ssh</p>
