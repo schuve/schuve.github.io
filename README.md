@@ -4,11 +4,7 @@
 <p>LNX: 4GB RAM, 30GB STR, 1J 4V, NAT8, OS later</p>
 <h4>DNS</h4>
 <h4>AD</h4>
-<p>
-New Forest (local.lab), 
-DSRM (zdt ps), 
-DNS delegace -> když sub dom (sub.loacl.lab)
-</p>
+<p>New Forest (local.lab), DSRM (zdt ps), DNS delegace -> když sub dom (sub.loacl.lab)</p>
 <h4>DHCP</h4>
 <p>scope...DNS, GW</p>
 <h4>AD create</h4>
@@ -18,4 +14,4 @@ DNS delegace -> když sub dom (sub.loacl.lab)
 <p>VNC W(tightvnc) -> L(x11vnc)</p>
 <p>RDP L(Remmina) -> W(ON)</p>
 <h4>conf</h4>
-
+<p>PCPartPicker.com, PassMark, Geekbench </p>
