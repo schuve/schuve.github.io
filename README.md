@@ -17,3 +17,8 @@ DNS delegace -> když sub dom (sub.loacl.lab)
 <p>SSH sudo apt install ssh</p>
 <p>VNC W(tightvnc) -> L(x11vnc)</p>
 <p>RDP L(Remmina) -> W(ON)</p>
+test
+test 
+tests
+tests
+
