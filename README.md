@@ -8,7 +8,7 @@
 <h4>DHCP</h4>
 <p>scope...DNS, GW</p>
 <h4>AD create</h4>
-<h4>Lx</h4>
+<p>pray</p>
 <h4>RMT-HELP</h4>
 <p>SSH sudo apt install ssh</p>
 <p>VNC W(tightvnc) -> L(x11vnc)</p>
