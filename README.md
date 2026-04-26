@@ -1,4 +1,4 @@
-<h3>VM config</h3>
+<h4>VM config</h4>
 <p>SRV: 8-6-4GB RAM, 60GB STR, 1J 4V, NAT8, OS later</p>
 <p>WIN: 8-6-4GB RAM, 60GB STR, 1J 4V, NAT8, OS later</p>
 <p>LNX: 4GB RAM, 30GB STR, 1J 4V, NAT8, OS later</p>
