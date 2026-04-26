@@ -15,6 +15,7 @@
 <p>RDP L(Remmina) -> W(ON)</p>
 <h4>conf</h4>
 <p>PCPartPicker.com, PassMark, Geekbench, geekboy cz, GPUreport cz, forum zive cz sestavy </p>
+<p>srv: smicro.cz</p>
 <h4>zanetování</h4>
 <p>prvky: RACK, Router (GW), SW (Poe, NEPoE), Patchpanel (konektory Optika/RJ45), AP, UPS, NAS</p>
 <p>značky: ubiquity</p>
