@@ -9,6 +9,8 @@
 <p>scope...DNS, GW</p>
 <h4>AD create</h4>
 <p>pray</p>
+<h4>IIS-FTP</h4>
+<p>AKTIVNÍ REŽIM - v advancet u WinSCP vypnout :)</p>
 <h4>SAMBA</h4>
 <p>
 /etc/samba/smb.conf <--- konfig on end, 
