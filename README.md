@@ -115,8 +115,9 @@ VDSL Modem/Router: AVM FRITZ!Box 7530 AX (špička pro VDSL linky).
 Switch: 8-portový Gigabit switch (TP-Link TL-SG108) umístěný v technickém centru.
 
 Wi-Fi: Mesh systém (např. TP-Link Deco X50, 3 jednotky) pro pokrytí všech pater bez výpadků.
-*****************************************************************************************************************
+
 2. Návrh softwaru a nastavení
+------------------------------------------------------------------------------------------------------------------
 Operační systémy
 PC1 & PC2: Windows 11 Pro (kvůli vzdálené ploše a BitLockeru). PC2 může mít Dual Boot s Linuxem (Ubuntu/Fedora) podle preferencí programátora.
 
@@ -134,24 +135,16 @@ Sdílení dat: Na NASu vytvoříme síťové disky (SMB):
 \\NAS\Media (pro filmy a hudbu v TV přes DLNA/Plex).
 
 Zabezpečení: Firewall na routeru, WPA3 šifrování na Wi-Fi, na NASu nastavený automatický "Snapshot" proti Ransomware.
-******************************************************************************************************************
+
 3. Blokové schéma síťového propojení
+------------------------------------------------------------------------------------------------------------------
 Textový popis zapojení:
-
 Vstup: Telefonní linka -> VDSL Modem (Sklep/Přízemí).
-
 Páteř: Z modemu vede kabel do Switche.
-
 Větve ze Switche:
-
 Kabel -> NAS (Sklep)
-
 Kabel -> PC1 (Sklep)
-
 Kabel -> PC2 (Pracovna)
-
 Kabel -> TV (Přízemí)
-
 Kabel -> Mesh Jednotky (Rozmístěny v patrech jako "backhaul" pro nejrychlejší Wi-Fi).
-
 Bezdrát: PC3 a PC4 se připojují přes Wi-Fi (nebo kabelem do nejbližší Mesh jednotky).
