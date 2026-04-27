@@ -73,3 +73,84 @@ smbd, nmbd,
         <td><strong>84 513 Kč</strong></td>
     </tr>
 </table>
+------------------------------------------------------------------------------------------------------------------
+1. Návrh hardwaru
+Sklep: Multimediální dílna a jádro
+PC1 (Studio): Zaměřeno na ticho a výpočetní výkon pro audio.
+
+CPU: AMD Ryzen 7 7700 (vysoký výkon, nízké teploty).
+
+RAM: 32GB DDR5 (pro náročné pluginy a samply).
+
+Audio: Externí zvuková karta (např. Focusrite Scarlett 4i4) – interní karty jsou dnes kvůli rušení v PC pasé.
+
+Periferie: Multifunkční tiskárna (např. Brother MFC-L2712DN – nezmar).
+
+NAS: Synology DiskStation DS224+ + 2x 4TB WD Red Plus (RAID 1 pro zrcadlení dat). Centrální úložiště pro nahrávky i zálohy programátora.
+
+Přízemí: Pracovna programátora
+PC2 (Profi): Priorita je multitasking a spolehlivost.
+
+CPU: Intel Core i7-14700 (skvělé pro kompilaci kódu).
+
+RAM: 64GB DDR5 (Docker, virtuální stroje, 100 tabů v prohlížeči).
+
+Zobrazení: 2x 27" 4K Dell UltraSharp (pivot pro kódování).
+
+TV: 55" LG OLED (skvělá konektivita, AirPlay/Chromecast).
+
+1. Patro: Domácí PC a hry
+PC3 a PC4 (Univerzál): Vyvážený poměr cena/výkon.
+
+CPU: AMD Ryzen 5 7600.
+
+GPU: NVIDIA RTX 4060 (perfektní pro 1080p/1440p hraní).
+
+RAM: 16GB DDR5.
+
+Síťová infrastruktura
+VDSL Modem/Router: AVM FRITZ!Box 7530 AX (špička pro VDSL linky).
+
+Switch: 8-portový Gigabit switch (TP-Link TL-SG108) umístěný v technickém centru.
+
+Wi-Fi: Mesh systém (např. TP-Link Deco X50, 3 jednotky) pro pokrytí všech pater bez výpadků.
+
+2. Návrh softwaru a nastavení
+Operační systémy
+PC1 & PC2: Windows 11 Pro (kvůli vzdálené ploše a BitLockeru). PC2 může mít Dual Boot s Linuxem (Ubuntu/Fedora) podle preferencí programátora.
+
+PC3 & PC4: Windows 11 Home.
+
+Síť a NAS
+Statické IP adresy: NAS, tiskárna a TV budou mít v routeru rezervované pevné IP adresy (pro snadný přístup).
+
+Sdílení dat: Na NASu vytvoříme síťové disky (SMB):
+
+\\NAS\Studio (přístup pro PC1).
+
+\\NAS\Backup (pro zálohování všech PC přes aplikaci Synology Drive).
+
+\\NAS\Media (pro filmy a hudbu v TV přes DLNA/Plex).
+
+Zabezpečení: Firewall na routeru, WPA3 šifrování na Wi-Fi, na NASu nastavený automatický "Snapshot" proti Ransomware.
+
+3. Blokové schéma síťového propojení
+Textový popis zapojení:
+
+Vstup: Telefonní linka -> VDSL Modem (Sklep/Přízemí).
+
+Páteř: Z modemu vede kabel do Switche.
+
+Větve ze Switche:
+
+Kabel -> NAS (Sklep)
+
+Kabel -> PC1 (Sklep)
+
+Kabel -> PC2 (Pracovna)
+
+Kabel -> TV (Přízemí)
+
+Kabel -> Mesh Jednotky (Rozmístěny v patrech jako "backhaul" pro nejrychlejší Wi-Fi).
+
+Bezdrát: PC3 a PC4 se připojují přes Wi-Fi (nebo kabelem do nejbližší Mesh jednotky).
