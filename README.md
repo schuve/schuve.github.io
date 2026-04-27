@@ -77,6 +77,7 @@ smbd, nmbd,
 ------------------------------------------------------------------------------------------------------------------
 Návrh hardwaru
 ------------------------------------------------------------------------------------------------------------------
+
 Sklep: Multimediální dílna a jádro
 PC1 (Studio): Zaměřeno na ticho a výpočetní výkon pro audio.
 
@@ -119,6 +120,7 @@ Wi-Fi: Mesh systém (např. TP-Link Deco X50, 3 jednotky) pro pokrytí všech pa
 ------------------------------------------------------------------------------------------------------------------
 Návrh softwaru a nastavení
 ------------------------------------------------------------------------------------------------------------------
+
 Operační systémy
 PC1 & PC2: Windows 11 Pro (kvůli vzdálené ploše a BitLockeru). PC2 může mít Dual Boot s Linuxem (Ubuntu/Fedora) podle preferencí programátora.
 
@@ -139,6 +141,7 @@ Zabezpečení: Firewall na routeru, WPA3 šifrování na Wi-Fi, na NASu nastaven
 ------------------------------------------------------------------------------------------------------------------
 Blokové schéma síťového propojení
 ------------------------------------------------------------------------------------------------------------------
+
 Textový popis zapojení:
 
 Vstup: Telefonní linka -> VDSL Modem (Sklep/Přízemí).
