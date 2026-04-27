@@ -74,7 +74,7 @@ smbd, nmbd,
         <td><strong>84 513 Kč</strong></td>
     </tr>
 </table>
-------------------------------------------------------------------------------------------------------------------
+
 Návrh hardwaru
 ------------------------------------------------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ VDSL Modem/Router: AVM FRITZ!Box 7530 AX (špička pro VDSL linky).
 Switch: 8-portový Gigabit switch (TP-Link TL-SG108) umístěný v technickém centru.
 
 Wi-Fi: Mesh systém (např. TP-Link Deco X50, 3 jednotky) pro pokrytí všech pater bez výpadků.
-------------------------------------------------------------------------------------------------------------------
+
 Návrh softwaru a nastavení
 ------------------------------------------------------------------------------------------------------------------
 
@@ -138,7 +138,7 @@ Sdílení dat: Na NASu vytvoříme síťové disky (SMB):
 \\NAS\Media (pro filmy a hudbu v TV přes DLNA/Plex).
 
 Zabezpečení: Firewall na routeru, WPA3 šifrování na Wi-Fi, na NASu nastavený automatický "Snapshot" proti Ransomware.
-------------------------------------------------------------------------------------------------------------------
+
 Blokové schéma síťového propojení
 ------------------------------------------------------------------------------------------------------------------
 
