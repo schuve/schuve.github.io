@@ -140,12 +140,22 @@ Zabezpečení: Firewall na routeru, WPA3 šifrování na Wi-Fi, na NASu nastaven
 3. Blokové schéma síťového propojení
 ------------------------------------------------------------------------------------------------------------------
 Textový popis zapojení:
+
 Vstup: Telefonní linka -> VDSL Modem (Sklep/Přízemí).
+
 Páteř: Z modemu vede kabel do Switche.
+
 Větve ze Switche:
+
 Kabel -> NAS (Sklep)
+
 Kabel -> PC1 (Sklep)
+
 Kabel -> PC2 (Pracovna)
+
 Kabel -> TV (Přízemí)
+
 Kabel -> Mesh Jednotky (Rozmístěny v patrech jako "backhaul" pro nejrychlejší Wi-Fi).
+
 Bezdrát: PC3 a PC4 se připojují přes Wi-Fi (nebo kabelem do nejbližší Mesh jednotky).
+
