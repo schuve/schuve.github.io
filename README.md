@@ -29,3 +29,44 @@ smbd, nmbd,
 <p>prvky: RACK, Router (GW), SW (Poe, NEPoE), Patchpanel (konektory Optika/RJ45), AP, UPS, NAS</p>
 <p>značky: ubiquity</p>
 <p>17: https://freshmangojuice.github.io/ ----- https://maturitaop.github.io/</p>
+
+----------------------------------------------------------------------------------------------------------------------
+<h2>IT vybavení</h2>
+<table>
+    <tr>
+        <th>KOMPONENTA</th>
+        <th>CENA</th>
+    </tr>
+    <tr><td>Router - Ubiquiti EdgeRouter ER-6P, PoE</td><td>5 059 Kč</td></tr>
+    <tr><td>Switch - Ubiiquiti USW-24-POE Gen2</td><td>9 590 Kč</td></tr>
+    <tr><td>AP - Ubiquiti U7-Pro-XG</td><td>4 989 Kč</td></tr>
+    <tr><td>UPC - CyberPower CP2000EIPFCRM2U</td><td>10 790 Kč</td></tr>
+    <tr><td>Barevná tiskárna - HP ColorJet Pro MFP 3302fdw</td><td>8 899 Kč</td></tr>
+    <tr><td>Černobílá tiskárna - HP LaserJet Enterprise MFP M528dn</td><td>43 223 Kč</td></tr>
+    <tr><td>HP Z2 Mini G1i</td><td>33 790 Kč</td></tr>
+    <tr><td>Monitor - DELL Pro 27 Plus (P2725D)</td><td>5 999 Kč</td></tr>
+    <tr><td>Microsoft 365 Business Standard (rok)</td><td>3 990 Kč</td></tr>
+</table>
+
+<h2>PC sestava</h2>
+<table>
+    <tr>
+        <th>KOMPONENTA</th>
+        <th>CENA</th>
+    </tr>
+    <tr><td>AMD Ryzen 9 9950X3D</td><td>14 690 Kč</td></tr>
+    <tr><td>ARCTIC Liquid Freezer III 360 Pro Black</td><td>2 499 Kč</td></tr>
+    <tr><td>ASROCK X870 PRO RS</td><td>4 999 Kč</td></tr>
+    <tr><td>GIGABYTE GeForce RTX 5070 Ti EAGLE OC SFF 16G</td><td>24 990 Kč</td></tr>
+    <tr><td>Kingston FURY 32GB DDR5 6000MT/s CL30</td><td>10 890 Kč</td></tr>
+    <tr><td>Samsung 990 PRO 2TB</td><td>5 199 Kč</td></tr>
+    <tr><td>Montech X5 Black</td><td>1 459 Kč</td></tr>
+    <tr><td>Seasonic Focus GX-1000 ATX 3.1</td><td>4 499 Kč</td></tr>
+    <tr><td>27" DELL U2724DE UltraSharp</td><td>12 790 Kč</td></tr>
+    <tr><td>Logitech G213</td><td>1 299 Kč</td></tr>
+    <tr><td>Logitech G502 Hero</td><td>1 199 Kč</td></tr>
+    <tr>
+        <td><strong>Celkem</strong></td>
+        <td><strong>84 513 Kč</strong></td>
+    </tr>
+</table>
