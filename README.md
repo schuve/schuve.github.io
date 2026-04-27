@@ -24,6 +24,7 @@ smbd, nmbd,
 <p>SSH sudo apt install ssh</p>
 <p>VNC W(tightvnc) -> L(x11vnc)</p>
 <p>RDP L(Remmina) -> W(ON)</p>
+<p>Remmina i pro vnc, i think so <3</p>
 ------------------------------------------------------------------------------------------------------------------
 <h4>conf</h4>
 <p>PCPartPicker.com, PassMark, Geekbench, geekboy cz, GPUreport cz, forum zive cz sestavy </p>
