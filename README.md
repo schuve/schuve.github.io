@@ -32,6 +32,7 @@ smbd, nmbd,
 <h4>zanetování</h4>
 <p>prvky: RACK, Router (GW), SW (Poe, NEPoE), Patchpanel (konektory Optika/RJ45), AP, UPS, NAS</p>
 <p>značky: ubiquity</p>
+------------------------------------------------------------------------------------------------------------------
 <p>17: https://freshmangojuice.github.io/ ----- https://maturitaop.github.io/</p>
 ------------------------------------------------------------------------------------------------------------------
 <h2>IT vybavení</h2>
